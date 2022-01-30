@@ -12,5 +12,5 @@ pip install prettytable selenium
 3. Execute in terminal:
 
 ```bash
-python3 ./mainpy
+python3 ./main.py
 ```
